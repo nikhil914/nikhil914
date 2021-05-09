@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Xamrin
 - 💬 Ask me about Android , Java, Pjsip (VOIP) ,Xmpp ,OSMDroid ,I might be able to help with most of your issues, else we will take down that error together 😁
+- 📫 How to reach me: nikhilranjan914@gmail.com (or) <a href="https://www.linkedin.com/in/nikhil-ranjan-52311575/" target="blank">LinkedIn</a>
 <!--
 **nikhil914/nikhil914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
