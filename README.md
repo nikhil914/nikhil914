@@ -1,9 +1,9 @@
 ### Hi there 👋
+<h3 >I am Nikhil, A passionate Android developer from India</h3>
 
 <!--
 **nikhil914/nikhil914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 >I am Nikhil, A passionate Android developer from India</h3>
 
 Here are some ideas to get you started:
 
